@@ -1,0 +1,62 @@
+/* MAIN STYLES */
+
+body {
+  font-family: 'PT Sans', sans-serif;
+  border-bottom: 1px solid #2d3c49;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+
+header {
+  border-bottom: 3px solid #e5bec2;
+}
+
+h2 {
+  color: #2d3c49;
+  font-size: 0.85em;
+
+}
+
+h3 {
+  color: #947c7c;
+}
+
+p {
+  color: #1c1c1c;
+}
+
+img {
+  max-width: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #2d3c49;
+}
+
+#logo {
+  color: #1c1c1c;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.project-info a {
+  background-color: #e5bec2;
+}
+
+.hero-pitch {
+  color: #1c1c1c;
+}
+
+.excerpt {
+  font-style: italic;
+  color: #655759;
+}
