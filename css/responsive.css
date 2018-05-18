@@ -19,7 +19,7 @@
   }
   
   .container {
-    padding: 0 10%;
+    padding: 0 5%;
     margin: 0 auto;
   }
 
@@ -63,7 +63,29 @@
     max-width: 60%;
   }
 
+  .featured-work {
+    display: flex;
+  }
 
+  .featured-one,
+  .featured-two,
+  .featured-three {
+    width: 100%
+
+  }
+
+  .featured-one {
+    order: 1;
+  }
+
+  .featured-two {
+    order: 2;
+  }
+
+  .featured-three {
+    order: 3;
+  }
+ 
 
 } 
 
