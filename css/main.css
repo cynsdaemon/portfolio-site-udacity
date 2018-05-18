@@ -1,32 +1,18 @@
 /* MAIN STYLES */
 
 body {
-  font-family: 'PT Sans', sans-serif;
-  border-bottom: 1px solid #2d3c49;
-}
-
-.container {
-  margin: 0 auto;
-  max-width: 100%;
-}
-
-
-header {
-  border-bottom: 3px solid #e5bec2;
-}
-
-h2 {
-  color: #2d3c49;
-  font-size: 0.85em;
-
-}
-
-h3 {
-  color: #947c7c;
-}
-
-p {
+  border: 5px solid #1c1c1c;
   color: #1c1c1c;
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1,
+h2 {
+  color: #947c7c;
+  font-family: 'Raleway', sans-serif;
+  font-size: 0.85em;
+  margin: 0 0 1em 0;
+  padding: 5px;
 }
 
 img {
@@ -39,24 +25,51 @@ ul {
 
 a {
   text-decoration: none;
-  color: #2d3c49;
 }
 
-#logo {
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
   color: #1c1c1c;
-  font-family: 'Raleway', sans-serif;
+}
+
+.site-title h1 {
+  font-size: 1.5em;
+} 
+
+.site-title h2 {
+  padding: 10px;
+}
+.site-logo {
+  max-width: 40%;
+}
+
+.featured-work {
+  padding: 5px 40px; 
+}
+
+.featured-excerpt {
+  border-bottom: 2px solid #1c1c1c;
+} 
+
+ul.project-list {
+  padding: 0;
+}
+
+.hero-blurb {
+  border: 2px dashed#655759;
+  font-style: italic;
+  margin: 0 10px;
+  padding: 5px;
+}
+
+footer {
   text-align: center;
 }
 
-.project-info a {
-  background-color: #e5bec2;
-}
 
-.hero-pitch {
-  color: #1c1c1c;
-}
 
-.excerpt {
-  font-style: italic;
-  color: #655759;
-}
+

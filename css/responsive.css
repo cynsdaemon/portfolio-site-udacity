@@ -1,0 +1,40 @@
+
+@media screen and (max-width: 400px) {
+  .site-title h1 {
+    display: none;
+  } 
+}
+
+@media screen and (min-width: 650px){
+  .container {
+    padding: 0 10%;
+    margin: 0 auto;
+  }
+
+  body {
+    border: 1px solid #1c1c1c;
+
+  }
+}
+
+@media screen and (min-width: 820px) {
+
+  .site-logo {
+    max-width: 50%;
+  }
+
+  .site-title {
+    font-size: 1em;
+    padding-top: 20px;
+  }
+
+  .hero {
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .hero-blurb {
+    margin: 20px 0 0 0;
+    padding: 20px;
+  }
+} 
