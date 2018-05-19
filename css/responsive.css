@@ -1,7 +1,6 @@
 
 @media screen and (max-width: 360px) {
-  .site-title h1,
-  .excerpt {
+  .site-title h1 {
     display: none;
   } 
 
@@ -35,8 +34,12 @@
 
 @media screen and (min-width: 940px) {
 
+  .container {
+    max-width: 1080px;
+  }
+
   .site-logo {
-    max-width: 50%;
+    max-width: 30%;
     padding-bottom: 10px;
   }
 
@@ -75,17 +78,27 @@
   }
 
   .featured-one {
+    margin-right: 10px;
     order: 1;
   }
 
   .featured-two {
+    margin: 0 5px;
     order: 2;
   }
 
   .featured-three {
+    margin-left: 5px; 
     order: 3;
   }
  
+  .featured-one,
+  .featured-two,
+  .featured-three {
+    border: 1px solid #1c1c1c;
+    box-shadow: 1px 3px #1c1c1c;
+    
+  }
 
 } 
 

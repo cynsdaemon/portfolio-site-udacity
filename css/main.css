@@ -63,11 +63,23 @@ img {
 
 }
 
+.project-list a {
+  background-color: #947c7c;
+  border: 4px #ce949a outset;
+  color: #fff;
+  display: flex;
+  align-self: auto;
+  margin: 5px;
+  padding: 10px;
+}
+
+.project-list a:active {
+  border: 2px #75686a inset;
+}
+
 .project-list {
   padding: 5px;
 }
-
-
 
 
 footer {
