@@ -1,8 +1,5 @@
 
 @media screen and (max-width: 360px) {
-  .site-title {
-    display: none;
-  } 
 
   .hero-blurb {
     border: 2px dashed#655759;
