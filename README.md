@@ -14,7 +14,6 @@ This project uses the following guides and libraries:
 - Udacity's Project Grading Rubric 
 - Normalize.css
 - CSS - Flexbox
-- and Font Awesome's, awesome fonts :smile: :sparkles:
 
  
 Contributions and Feedback
