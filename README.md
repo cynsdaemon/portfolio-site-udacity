@@ -6,7 +6,7 @@ This repo serves as a home for the 'Build a Portfolio Site' project in the Udaci
 Prerequisites
 --------
 
-The live project [here](https://cynsdaemon.github.io/portfolio-site-udacity/) in a web browser.  This project is primarily written in CSS and HTML. No JavaScript is utilized. No other dependencies are required to view or run this portfolio theme.
+This is a portfolio theme written primarily in CSS and HTML. No JavaScript is utilized. Aside from using a web browser to view this project, no other dependencies are required. The live project is available [here](https://cynsdaemon.github.io/portfolio-site-udacity/).
 
 Resources
 --------
