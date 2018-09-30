@@ -1,15 +1,13 @@
 # Build a Porfolio Site
 --------
 
-This repo serves as a home for the 'Build a Portfolio Site' project in the Udacity [Frontend Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Nanodegree.
-
-Prerequisites
---------
-
-This is a portfolio theme written primarily in CSS and HTML. No JavaScript is utilized. Aside from using a web browser to view this project, no other dependencies are required. The live project is available [here](https://cynsdaemon.github.io/portfolio-site-udacity/).
+This repo serves as a home for the 'Build a Portfolio Site' project in the Udacity [Frontend Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Nanodegree. This project was based on a set of requirements from a mockup, and a few custom elements added as a site logo for a little flourish. This portfolio theme uses CSS Flexbox for a simple layout structure, and media queries and breaking points for a responsive design.
 
 Resources
 --------
+
+The live site is available [here](https://cynsdaemon.github.io/portfolio-site-udacity/). This is a portfolio theme written primarily in CSS and HTML. No JavaScript is utilized. Aside from using a web browser to view this project, no other dependencies are required. The live project is available [here](https://cynsdaemon.github.io/portfolio-site-udacity/).
+
 
 This project uses the following guides and libraries:
 
